@@ -12,9 +12,9 @@
 - 拿到一個mongo shell來確認資料的改變
     - `docker exec -it mongo1 mongo`
 ### 把圖片存入mongodb
-- [upload_image](https://github.com/chihpy/AIOT/blob/main/D27_img_pymongo/upload_image.py)
+- [upload_image]
 - 使用mongo shell察看結果
 ### 從mongodb下載圖像
-- [load_image](https://github.com/chihpy/AIOT/blob/main/D27_img_pymongo/load_image.py)
+- [load_image]
 ## reference
 ## extension
