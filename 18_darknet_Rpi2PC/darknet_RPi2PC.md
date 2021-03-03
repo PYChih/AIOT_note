@@ -46,4 +46,3 @@
             - 通常linker name與real name是用ln只到對應的real name來提供彈性與維護性
 - netstat: 
 - ![](https://i.imgur.com/u4WOhCl.png)
-- 
