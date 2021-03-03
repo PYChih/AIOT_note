@@ -10,7 +10,7 @@
     - `pip install pymongo`
 ## 實作
 - 先把mogodb的docker server跑起來
-    - `docker run -d --name mongo1 -p 27017:27017 mongo`
+    - `docker run -d --name mongo1 -p 8080:27017 mongo`
 - 拿到一個mongo shell來確認資料的改變
     - `docker exec -it mongo1 mongo`
 - [x] 基本操作
